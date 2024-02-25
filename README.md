@@ -1,9 +1,14 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Levisaoo/Levi-Lima/assets/133822725/52b805ae-96b1-4c05-8e5b-41e9241c8bd7">
 
-# Olá Devs!!!
-## Me chamo Levi Lima Santana e
-## Sejam todos bem vindos ao meu Perfil!👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Me+chamo+Levi!;" />
+</h1>
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Bem+vindos+ao+meu+Perfil+!+👋" />
+</h1>
+
+##
 
 - 🔭 Atualmente estou trabalhando em como TI com especialização em telecomunicações PABX ip e cloud! 😆
 - 🌱 Atualmente estou aprendendo programação na escola de tecnologia da alura! 😆
@@ -32,4 +37,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Levisaoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/Levisaoo/Levisaoo/output/github-contribution-grid-snake.svg)
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
